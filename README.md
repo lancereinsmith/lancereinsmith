@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on radiology reporting.
-- 🌱 I’m currently learning PuLP optimization.
+- 🔭 I’m currently working on Markov chains in Python for predictive analytics.
+- 🌱 I’m currently learning HMM-learn.
 - 👯 I’m looking to collaborate on data visualization.
 - 🤔 I’m looking for help with Rust.
 - 💬 Ask me about medical imaging.
